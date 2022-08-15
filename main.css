@@ -71,7 +71,7 @@ body{
 	color: white;
 	text-align:center;
 	width:100%;
-	font-size: 10vh;
+	font-size: 12vh;
 	font-weight: 700;
 	overflow: hidden;
 	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -141,7 +141,7 @@ body{
 
 #about1{
 	height:75vh;
-	width:90%;
+	width:80%;
 	margin: auto;
 }
 
@@ -195,8 +195,8 @@ body{
 /**********************************************************************************************************************/
 
 #about2{
-	height:50vh;
-	width:90%;
+	height:60vh;
+	width:80%;
 	margin: auto;
 }
 
@@ -237,7 +237,7 @@ body{
 
 #about3{
 	height:50vh;
-	width:90%;
+	width:80%;
 	margin: auto;
 }
 
@@ -302,7 +302,7 @@ body{
 
 #about4{
 	height:75vh;
-	width:90%;
+	width:80%;
 	margin: auto;
 }
 #experience{
