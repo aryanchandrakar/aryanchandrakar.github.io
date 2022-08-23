@@ -104,7 +104,7 @@ body{
                          1px -1px 0 #FFFFFF,
                         -1px -1px 0 #FFFFFF;
 	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-	font-size: 13vh;
+	font-size: 11vh;
 }
 #already{
 	font-family: 'Satisfy', cursive;
@@ -113,7 +113,7 @@ body{
   -webkit-text-fill-color: transparent;
     padding-left:5px;
 	padding-right:10px;
-	font-size: 14vh;
+	font-size: 11vh;
 }
 #main-header h2{
 	text-align:center;
