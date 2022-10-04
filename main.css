@@ -185,7 +185,8 @@ body{
 	border-radius:2vw;
 	margin:0.5vw;
 	margin-bottom:2vh;
-	min-height:70vh;
+	
+	margin:auto;
 }
 #oh{
 	color:black;
