@@ -191,7 +191,7 @@ body{
 	color:black;
 	text-align:center;
 	font-size:5.2vh;
-	border-bottom: 50vh solid rgba(0,0,0,0);
+	border-bottom: 50% solid rgba(0,0,0,0);
 	font-weight:750;
 	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
