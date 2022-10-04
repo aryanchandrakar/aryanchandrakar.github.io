@@ -188,9 +188,9 @@ body{
 }
 #oh{
 	color:black;
+	padding-bottom:35%;
 	text-align:center;
 	font-size:5.2vh;
-	border-bottom: 50% solid rgba(0,0,0,0);
 	font-weight:750;
 	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
