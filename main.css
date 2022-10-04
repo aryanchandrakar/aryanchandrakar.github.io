@@ -324,14 +324,10 @@ body{
 #exp{
 	margin:auto;
 	font-weight: 700;
-	color:black;
+	color:white;
 	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-	font-size: 4.5vh;
+	font-size: 5vh;
 	background-color:rgba(0,0,0,0.2);
-	text-shadow: -1px 1px 0 #FFF,
-                          1px 1px 0 #FFF,
-                         1px -1px 0 #FFF,
-                        -1px -1px 0 #FFF;
 }
 #skills{
 	background-repeat:no-repeat;
