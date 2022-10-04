@@ -166,7 +166,7 @@ body{
 }
 #just{
 	text-align:center;
-	background: linear-gradient(to right,#FF7000,#FF00F7);
+	background: linear-gradient(to right,#FF7000,#FFCD00);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 	font-size:16vh;
