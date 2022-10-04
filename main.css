@@ -170,7 +170,7 @@ body{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 	font-size:16vh;
-	padding:0vw 3vw;
+	padding:3vw;
 	font-weight:700;
 	font-family:'Square Peg', cursive;
 }
@@ -191,6 +191,7 @@ body{
 	color:black;
 	text-align:center;
 	font-size:5.2vh;
+	padding-bottom:50%;
 	font-weight:750;
 	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
