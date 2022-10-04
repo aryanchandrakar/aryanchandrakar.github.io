@@ -169,7 +169,7 @@ body{
 	background: linear-gradient(to right,#FF7000,#FF00F7);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-	font-size:14vh;
+	font-size:16vh;
 	padding:3vw;
 	font-weight:700;
 	font-family:'Square Peg', cursive;
