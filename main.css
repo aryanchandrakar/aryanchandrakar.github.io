@@ -169,7 +169,7 @@ body{
 	background: linear-gradient(to right,#FF7000,#FF00F7);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-	font-size:12vh;
+	font-size:14vh;
 	padding:3vw;
 	font-weight:700;
 	font-family:'Square Peg', cursive;
@@ -263,10 +263,6 @@ body{
 	font-size: 6vh;
 	font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 	font-weight: 700;
-	text-shadow: -1px 1px 0 #FFFFFF,
-                          1px 1px 0 #FFFFFF,
-                         1px -1px 0 #FFFFFF,
-                        -1px -1px 0 #FFFFFF;
 }
 
 #project{
